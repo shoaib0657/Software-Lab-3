@@ -1,0 +1,101 @@
+commit 10f0d6fa3c6f939037a31d691fe0e3947fa248f1
+Author: Shoaib <mdshoaibansari0307#gmail.com>
+Date:   Thu Mar 9 15:12:08 2023 +0530
+
+    Re-adding file2.txt
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..cf61b5f
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++2025 Software Engineer
+\ No newline at end of file
+
+commit 71a064a3a5381d00b2be6698adc39aba00c25354
+Author: Shoaib <mdshoaibansari0307#gmail.com>
+Date:   Thu Mar 9 15:01:13 2023 +0530
+
+    Deleting file2.txt
+
+diff --git a/file1.txt b/file1.txt
+index da8b31c..4a05749 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1,2 @@
+-Mohammad Shoaib Ansari Computer Science and Engineering Delhi Darbar Shershaah
+\ No newline at end of file
++Mohammad Shoaib Ansari Computer Science and Engineering Delhi Darbar Shershaah
++Purple
+\ No newline at end of file
+diff --git a/file2.txt b/file2.txt
+deleted file mode 100644
+index cf61b5f..0000000
+--- a/file2.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-2025 Software Engineer
+\ No newline at end of file
+
+commit d9086de0f130d273cad9068c78c5dfed06af3a61
+Author: Shoaib <mdshoaibansari0307#gmail.com>
+Date:   Thu Mar 9 14:56:21 2023 +0530
+
+    Added graduation year and first job title.
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..cf61b5f
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++2025 Software Engineer
+\ No newline at end of file
+
+commit 830819ac58b38792afe32eebafa66564a0662bd5
+Author: Shoaib <mdshoaibansari0307#gmail.com>
+Date:   Thu Mar 9 14:41:56 2023 +0530
+
+    Added favorite restaurant and movie
+
+diff --git a/file1.txt b/file1.txt
+index a0eaee6..da8b31c 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1 @@
+-Mohammad Shoaib Ansari Computer Science and Engineering
+\ No newline at end of file
++Mohammad Shoaib Ansari Computer Science and Engineering Delhi Darbar Shershaah
+\ No newline at end of file
+
+commit c4b7e478f8ceeb0cb2feab1af2473126772b63f0
+Author: Shoaib <mdshoaibansari0307#gmail.com>
+Date:   Thu Mar 9 14:35:54 2023 +0530
+
+    Now has my major
+
+diff --git a/file1.txt b/file1.txt
+index 2af75d4..a0eaee6 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1 @@
+-Mohammad Shoaib Ansari BT21CSE063
+\ No newline at end of file
++Mohammad Shoaib Ansari Computer Science and Engineering
+\ No newline at end of file
+
+commit cab4b4d89cd981b1cf408e054040f43a9cbf9844
+Author: Shoaib <mdshoaibansari0307#gmail.com>
+Date:   Thu Mar 9 14:27:27 2023 +0530
+
+    Committing a new file with my name.
+
+diff --git a/file1.txt b/file1.txt
+new file mode 100644
+index 0000000..2af75d4
+--- /dev/null
++++ b/file1.txt
+@@ -0,0 +1 @@
++Mohammad Shoaib Ansari BT21CSE063
+\ No newline at end of file
